@@ -3,7 +3,7 @@
  "header": {
    "description": "My dirt resource pack Add-On!",
    "name": "JBeverything Resource Pack",
-   "uuid":"",
+   "uuid":"0a8a433c-c0ba-4f08-be68-7949d87415fa",
    "version": [1, 0, 0],
    "min_engine_version": [1, 16, 0]
   },
@@ -11,7 +11,7 @@
    {
      "description": "Its da JBeverything resource pack!",
      "type": "resources",
-     "uuid": "",
+     "uuid": "96d49221-abc7-48a4-8762-17af60690f94",
      "version": [1, 0, 0]
    }
  ]
