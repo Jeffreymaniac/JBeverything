@@ -1,5 +1,7 @@
 # JBeverything
-This is a Minecraft mod that adds tons of stuff
+This is a Minecraft bedrock mod that adds tons of stuff.
+
+This whole thing is made using knowledge and reference from https://learn.microsoft.com/en-us/minecraft/creator/documents/gettingstarted
 
 ## Rules
 
