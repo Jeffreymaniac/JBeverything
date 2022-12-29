@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "JBeverything behavior pack",
+    "name": "JBeverything Behavior Pack",
+    "uuid":"",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules":
+    [
+      {
+        "description": "Its da JBeverything behavior pack!",
+          "type": "data",
+          "uuid": "",
+          "version": [1, 0, 0]
+      }
+    ],
+  "dependencies": [
+    {
+     "uuid":"0a8a433c-c0ba-4f08-be68-7949d87415fa",
+      "version":[1,0,0]
+    }
+ ]
+}
