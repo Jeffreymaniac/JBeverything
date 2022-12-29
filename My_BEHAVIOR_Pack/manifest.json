@@ -3,7 +3,7 @@
   "header": {
     "description": "JBeverything behavior pack",
     "name": "JBeverything Behavior Pack",
-    "uuid":"",
+    "uuid":"4fddce25-8e62-4dc5-87fc-22aa83696dfd",
     "version": [1, 0, 0],
     "min_engine_version": [1, 16, 0]
   },
@@ -12,7 +12,7 @@
       {
         "description": "Its da JBeverything behavior pack!",
           "type": "data",
-          "uuid": "",
+          "uuid": "b740a115-9854-492d-b875-2817abde150d",
           "version": [1, 0, 0]
       }
     ],
