@@ -6,14 +6,13 @@
 
         "description": { 
 
-            "identifier": "jbeverything:stupiditium" 
+            "identifier": "jbeverything:stupidium" 
 
         }, 
 
         "components": {
           
-            "": ""
-          
+            "minecraft:light_emission": 35          
         } 
 
     } 
