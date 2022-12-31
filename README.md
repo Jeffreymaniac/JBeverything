@@ -10,3 +10,4 @@ This whole thing is made using knowledge and reference from https://learn.micros
 ## What it adds
 
 * Stupidium - a stupid bright green block
+* A function command - write `/function jbeverything/bigtnt` in the chat, and it will spawn a bunch of tnt, basically like a nuke.
