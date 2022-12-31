@@ -9,4 +9,4 @@ This whole thing is made using knowledge and reference from https://learn.micros
 
 ## What it adds
 
-* Stupidium - a stupid block
+* Stupidium - a stupid bright green block
