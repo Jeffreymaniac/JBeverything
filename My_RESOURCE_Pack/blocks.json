@@ -1,0 +1,32 @@
+{ 
+
+    "format_version": "1.19.30", 
+
+    "JBeverything:stupidium": { 
+
+        "textures": { 
+
+            "up": "stupidium_1", 
+
+            "down": "stupidium_6", 
+
+            "north": "stupidium_3", 
+
+            "south": "stupidium_4", 
+
+            "east": "stupidium_2", 
+
+            "west": "stupidium_5" 
+
+        }, 
+
+        "carried_textures": "stupidium_inhand", 
+
+        "isotropic": true, 
+
+        "brightness_gamma": 1, 
+
+        "sound": "stone" 
+
+} 
+}
