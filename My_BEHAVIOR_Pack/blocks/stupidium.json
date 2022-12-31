@@ -12,7 +12,8 @@
 
         "components": {
           
-            "minecraft:light_emission": 35          
+            "minecraft:light_emission": 35,
+            "minecraft:friction": 0.99      
         } 
 
     } 
