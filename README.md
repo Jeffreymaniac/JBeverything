@@ -1,5 +1,5 @@
 # JBeverything bedrock MC mod
-This is a Minecraft bedrock mod that adds tons of stuff.
+This is a working in progress Minecraft bedrock mod that adds tons of stuff.
 
 This whole thing is made using knowledge and reference from https://learn.microsoft.com/en-us/minecraft/creator/documents/gettingstarted
 
